@@ -1,4 +1,3 @@
-**Note:** The analysis for the revised manuscript (R1, November 2026) is in `uam_wildlife_r1.py` with its `data/` and `results/` folders. The remaining files belong to the original submission and are kept for comparison.
 # UAM Wildlife Strike Analysis (JATE)
 
 Code and data for the manuscript **"Wildlife Strike Hazard in the Low-Altitude Urban Air Mobility Envelope: A Selection-Corrected Analysis of 97,162 FAA Records and an Exposure-Normalized Corridor Risk Index"** (Journal of Aviation Technology and Engineering, revised submission R1, November 2026).
