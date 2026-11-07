@@ -3,7 +3,7 @@
 This repository contains the complete Python analysis pipeline and supplementary materials for the paper:
 
 **"Wildlife Strike Risk in the Urban Air Mobility Operational Envelope: A Height-Stratified Analysis of 97,162 FAA Records and a Three-Component Corridor Risk Index"**  
-*Yurtsever, O. & Küçük, H. (2026)*
+*Yurtsever, O.*
 
 ## Overview
 
